@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiselTelefonDefteri_UI", "KisiselTelefonDefteri_Task\KisiselTelefonDefteri_UI.csproj", "{4DA06BCA-C0D2-48A9-A050-7F68FD89586D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiselTelefonDefteri_BLL", "KisiselTelefonDefteri_BLL\KisiselTelefonDefteri_BLL.csproj", "{C3752A24-67CC-4471-A97F-1BBBA5996496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiselTelefonDefteri_DAL", "KisiselTelefonDefteri_DAL\KisiselTelefonDefteri_DAL.csproj", "{7ED9AB48-CFF4-467B-940A-2E13E60729DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiselTelefonDefteri_Entity", "KisiselTelefonDefteri_Entity\KisiselTelefonDefteri_Entity.csproj", "{F04D2D50-DBF3-48D3-8EA6-25F69B9BB788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA06BCA-C0D2-48A9-A050-7F68FD89586D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA06BCA-C0D2-48A9-A050-7F68FD89586D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA06BCA-C0D2-48A9-A050-7F68FD89586D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA06BCA-C0D2-48A9-A050-7F68FD89586D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3752A24-67CC-4471-A97F-1BBBA5996496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3752A24-67CC-4471-A97F-1BBBA5996496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3752A24-67CC-4471-A97F-1BBBA5996496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3752A24-67CC-4471-A97F-1BBBA5996496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED9AB48-CFF4-467B-940A-2E13E60729DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED9AB48-CFF4-467B-940A-2E13E60729DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED9AB48-CFF4-467B-940A-2E13E60729DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED9AB48-CFF4-467B-940A-2E13E60729DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04D2D50-DBF3-48D3-8EA6-25F69B9BB788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04D2D50-DBF3-48D3-8EA6-25F69B9BB788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04D2D50-DBF3-48D3-8EA6-25F69B9BB788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04D2D50-DBF3-48D3-8EA6-25F69B9BB788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2C194F6-58CB-4F5A-A92E-F81F688DB74A}
+	EndGlobalSection
+EndGlobal

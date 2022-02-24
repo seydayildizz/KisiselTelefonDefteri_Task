@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lsN+ulVrVldlbX7PBRBPGpfmo12WLZ8wbmP522KRSGVJtt78wn8j3BiAH16+RLrhT8ep4ZpU2TQuogrPDWGYHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ŞeydaZenler\\source\\repos\\EronYazilim_103SeydaZenler\\KisiselTelefonDefteri_BLL\\KisiselTelefonDefteri_BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ŞeydaZenler\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

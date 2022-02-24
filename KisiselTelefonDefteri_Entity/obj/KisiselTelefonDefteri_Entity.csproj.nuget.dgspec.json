@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ŞeydaZenler\\source\\repos\\EronYazilim_103SeydaZenler\\KisiselTelefonDefteri_Entity\\KisiselTelefonDefteri_Entity.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ŞeydaZenler\\source\\repos\\EronYazilim_103SeydaZenler\\KisiselTelefonDefteri_Entity\\KisiselTelefonDefteri_Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ŞeydaZenler\\source\\repos\\EronYazilim_103SeydaZenler\\KisiselTelefonDefteri_Entity\\KisiselTelefonDefteri_Entity.csproj",
+        "projectName": "KisiselTelefonDefteri_Entity",
+        "projectPath": "C:\\Users\\ŞeydaZenler\\source\\repos\\EronYazilim_103SeydaZenler\\KisiselTelefonDefteri_Entity\\KisiselTelefonDefteri_Entity.csproj",
+        "packagesPath": "C:\\Users\\ŞeydaZenler\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ŞeydaZenler\\source\\repos\\EronYazilim_103SeydaZenler\\KisiselTelefonDefteri_Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ŞeydaZenler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
